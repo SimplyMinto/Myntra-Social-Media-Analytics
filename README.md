@@ -56,5 +56,4 @@ The goal is to evaluate engagement, platform-wise performance, hashtag effective
 
 ---
 
-## 👤 Author
-**Manas Patnaik**  
+
