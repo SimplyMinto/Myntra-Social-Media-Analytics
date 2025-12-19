@@ -17,19 +17,24 @@ The analysis focuses on **user engagement, platform-wise performance, hashtag ef
 ---
 
 ## 🗂️ Project Structure
+<pre>
 Myntra-Social-Media-Analytics/
+│
 ├── data/
+│   ├── README.md
 │   ├── 00_Myntra_Social_Media_Analytics.xlsx
-│   ├── 01_Data_Cleaning.xlsx
-│   └── README.md
+│   └── 01_Data_Cleaning.xlsx
+│
 ├── analysis/
+│   ├── README.md
 │   ├── 02_Engagement_Analysis.xlsx
 │   ├── 03_Platform_Analysis.xlsx
 │   ├── 04_Hashtag_Content_Strategy.xlsx
 │   ├── 05_Campaign_Effectiveness.xlsx
-│   ├── 06_Weekly_Growth.xlsx
-│   └── README.md
+│   └── 06_Weekly_Growth.xlsx
+│
 └── README.md
+</pre>
 
 ---
 
